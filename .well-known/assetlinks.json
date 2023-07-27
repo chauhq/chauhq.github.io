@@ -1,9 +1,5 @@
-[
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "kaka"
-      }
-    }
-  ]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.hqc.myapplication",
+    "sha256_cert_fingerprints": ["14:86:0D:57:0A:E4:EC:F2:33:EE:13:AC:7E:02:68:F0:FF:30:FA:5F:CE:59:78:57:BC:C1:95:C0:85:9E:98:70"] }
+}]
